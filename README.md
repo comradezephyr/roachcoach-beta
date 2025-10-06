@@ -1,4 +1,4 @@
-# RoachCoach-Trojan
+# RoachCoachTrojan-BETA
 
 ## Description
 RoachCoach is an enhanced and modernized version of the classic TrojanCockroach malware. This physical trojan spyware is designed to log keystrokes, capture user data, and spread across removable drives. With improvements in code efficiency, security, and functionality, RoachCoach aims to be a powerful tool for cybersecurity enthusiasts and penetration testers.
